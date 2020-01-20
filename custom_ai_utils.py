@@ -14,4 +14,4 @@ import numpy as np
 def sigmoid(z):
     # Convert into numpy array
     z = np.array(z)
-    return (1/(1 + np.exp(-z)) 
+    return (1/(1 + np.exp(-z))) 
